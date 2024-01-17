@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-cv in pdf: [CV](Intro.pdf)
+cv in pdf: [main1.pdf](http://wwdwy.github.io/files/main1.pdf)
 
 Education
 ======
