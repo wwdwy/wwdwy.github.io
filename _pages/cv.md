@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+
+cv in pdf: [CV](main1.pdf)
+
 Education
 ======
 * Undergraduate, University of Science and Technology of China,2021.9-2024.1
