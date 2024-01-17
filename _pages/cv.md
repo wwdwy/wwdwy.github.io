@@ -32,3 +32,20 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Courses
+======
+* Mathematical Analysis I&II.  Instructor: Ping Li
+* Mathematical Analysis III.  Instructor: Bin Xu
+* Linear Algebra I.  Instructor: Yiqian Shi
+* Linear Algebra II.  Instructor: Falai Chen
+* Introduction to Geometry.  Instructor: Qing Chen
+* Introduction to Differential Equations.  Instructor: Lifeng Zhao
+* Real Analysis.  Instructor: Guangbin Ren
+* Complex Analysis.  Instructor: Simin Li
+* Abstract Algebra.  Instructor: Lei Zhang
+* Probability.  Instructor: Dangzheng Liu
+* Mathematical Statistics.  Instructor: Weiping Zhang
+* Graduated Real Analysis.  Instructor: Jungang Li
+* Functional Analysis.  Instructor: Congwen Liu
+* Advanced Probability.  Instructor: Taizhong Hu
+* Regression Analysis.  Instructor: Yaning Yang
