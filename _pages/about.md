@@ -8,4 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a dasabi.
+I'am a third year undergraduate student from [School of Mathematics](https://math.ustc.edu.cn/main.htm), [University of Science and Technology of China](https://en.ustc.edu.cn/). My research interest includes Analysis, Probablity, Geometry and Statistics.
+
+You can find my CV here: 
