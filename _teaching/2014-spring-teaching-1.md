@@ -11,6 +11,4 @@ location: "Hefei,China"
 I am a TA of this course. My work is to correct students' homework and teach them several courses. 
 Here is my PDF and manuscript.
 
-Heading 1
-======
 Introduction: [Intro.pdf](http://wwdwy.github.io/files/Intro.pdf)
