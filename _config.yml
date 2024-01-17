@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "China"
-title                    : "Shuo Zhang"
+title                    : "Shuo Zhang's Homepage"
 title_separator          : "-"
 name                     : &name "Shuo Zhang"
 description              : &description "personal description"
@@ -87,8 +87,8 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : zhangshuo2002@mail.ustc.edu.cn
-  mobile           : +86 18051570368
+  email            : "zhangshuo2002@mail.ustc.edu.cn"
+  mobile           : "+86 18051570368"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
