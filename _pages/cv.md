@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-cv in pdf: [CV](main1.pdf)
+cv in pdf: [CV](Intro.pdf)
 
 Education
 ======
