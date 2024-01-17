@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 1"
+title: "Linear Algebra B1"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "University of Science and Technology of China, Dept of Mathematics"
+date: 2024Spring
+location: "Hefei,China"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+I am a TA of this course. My work is to correct students' homework and teach them several courses. 
+Here is my PDF and manuscript.
 
 Heading 1
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+Introduction:
